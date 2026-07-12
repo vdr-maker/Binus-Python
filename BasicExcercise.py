@@ -1,0 +1,5 @@
+print("Vito")
+print("Jakarta")
+print("Student")
+print("Indonesia")
+print("Games")
