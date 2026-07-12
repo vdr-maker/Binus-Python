@@ -1,0 +1,9 @@
+# Input panjang dan lebar lapangan
+panjang = input("Masukkan panjang lapangan: ")
+lebar = input("Masukkan lebar lapangan: ")
+
+# Hitung luas
+luas = panjang * lebar
+
+# Tampilkan hasil
+print("Luas lapangan =", luas, "meter persegi")

@@ -1,0 +1,11 @@
+# Menentukan nilai pi
+pi = 3.14
+
+# Input jari-jari lingkaran
+r = input("Masukkan jari-jari lingkaran: ")
+
+# Hitung luas
+luas = pi * r * r
+
+# Tampilkan hasil
+print("Luas lingkaran =", luas)

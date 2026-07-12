@@ -1,0 +1,8 @@
+# Input nilai mahasiswa
+nilai = input("Masukkan nilai mahasiswa: ")
+
+# Cek kelulusan
+if nilai >= 60:
+    print("Mahasiswa Lulus")
+else:
+    print("Mahasiswa Gagal")

@@ -1,0 +1,27 @@
+START
+
+Input Celsius
+fahrenheit = (Celsius × 9 / 5) + 32
+kelvin = Celsius + 273.15
+
+Display "Celsius:", Celsius
+Display "Fahrenheit:", fahrenheit
+Display "Kelvin:", kelvin
+
+Input Fahrenheit
+celsius = (Fahrenheit - 32) × 5 / 9
+kelvin = celsius + 273.15
+
+Display "Fahrenheit:", Fahrenheit
+Display "Celsius:", celsius
+Display "Kelvin:", kelvin
+
+Input Kelvin
+celsius = Kelvin - 273.15
+fahrenheit = (Kelvin - 273.15) × 9 / 5 + 32
+
+Display "Kelvin:", Kelvin
+Display "Celsius:", celsius
+Display "Fahrenheit:", fahrenheit
+
+STOP
